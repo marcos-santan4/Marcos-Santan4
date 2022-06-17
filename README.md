@@ -32,9 +32,3 @@
   <a href = "mailto:ssmarcosantana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-santana-002942212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br>
-<div>
-  <p> 
-  <img src="https://i.redd.it/qa6ef19kuks31.png" border="0" alt="" width="1500" height="600"/>
-  </p>
-  </div>
