@@ -1,6 +1,7 @@
 <h1 align="center">Olá, tudo bem? Sou o Marcos Santana!</h1>
 
 - 🔭 Atualmente trabalho na Rota Transportes LTDA, grande empresa de transporte rodoviário, sendo referência no Nodeste Brasileiro.
+- 💻 Estudante (4º semestre) de Sistema de Informação
 - 🚀 Desenvolvedor na DevArt (Iniciativa entre amigos)
 - 🌱 Estudando Java e JavaScript
 - 👯 Estou procurando por crescimento profissional
