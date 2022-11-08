@@ -2,8 +2,7 @@
 
 - 🔭 Atualmente trabalho na Rota Transportes LTDA, grande empresa de transporte rodoviário, sendo referência no Nordeste Brasileiro.
 - 💻 Estudante (4º semestre) de Sistema de Informação
-- 🚀 Desenvolvedor na DevArt (Iniciativa sem fins lucrativos entre amigos)
-- 🌱 Estudando Java e JavaScript
+- 🚀 Estudando Java e JavaScript
 - 👯 Estou procurando por crescimento profissional
 - 🤔 Estou procurando por oportunidades na area de Desenvolvimento
 - 💬 Contate-me no WhatsApp - (73) 98802-4012
