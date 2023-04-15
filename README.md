@@ -1,12 +1,11 @@
 <h1 align="center">Olá, tudo bem? Sou o Marcos Santana!</h1>
 
-- 🔭 Atualmente trabalho na Rota Transportes LTDA, grande empresa de transporte rodoviário, sendo referência no Nordeste Brasileiro.
-- 💻 Estudante (4º semestre) de Sistema de Informação
+- 🔭 Atualmente trabalho no T.I da Broker Dissulba Nestle, empresa de distribuicão alimentícia da Nestle.
+- 💻 Estudante (5º semestre) de Sistema de Informação
 - 🚀 Estudando Java e JavaScript
 - 👯 Estou procurando por crescimento profissional
 - 🤔 Estou procurando por oportunidades na area de Desenvolvimento
 - 💬 Contate-me no WhatsApp - (73) 98802-4012
-- 😄 Pronomes: ele/dele
 
 <br>
 <div align="center">
