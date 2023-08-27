@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho no T.I da Broker Dissulba Nestle, empresa de distribuicão alimentícia da Nestle.
 - 💻 Estudante (5º semestre) de Sistema de Informação
-- 🚀 Estudando Java e JavaScript
+- 🚀 Futuro especialista em java
 - 👯 Estou procurando por crescimento profissional
 - 🤔 Estou procurando por oportunidades na area de Desenvolvimento
 - 💬 Contate-me no WhatsApp - (73) 98802-4012
