@@ -1,11 +1,11 @@
 <h1 align="center">Olá, tudo bem? Sou o Marcos Santana!</h1>
 
-- 🔭 Atualmente trabalho no T.I da Broker Dissulba Nestle, empresa de distribuicão alimentícia da Nestle.
-- 💻 Estudante (6º semestre) de Sistema de Informação
-- 🚀 Futuro especialista em java
-- 👯 Estou procurando por crescimento profissional
-- 🤔 Estou procurando por oportunidades na area de Desenvolvimento
-- 💬 Contate-me no WhatsApp - (73) 98802-4012
+- 🔭 Atualmente trabalho no T.I da Broker Dissulba Nestle.
+- 💻 Estudante (6º semestre) de Sistema de Informação.
+- 🚀 Futuro especialista em java.
+- 👯 Estou procurando por crescimento profissional.
+- 🤔 Estou procurando por oportunidades na area de TI e Desenvolvimento Back-End.
+- 💬 Contate-me no WhatsApp - (73) 98802-4012.
 
 <br>
 <div align="center">
