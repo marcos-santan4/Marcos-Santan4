@@ -1,7 +1,7 @@
 <h1 align="center">Olá, tudo bem? Sou o Marcos Santana!</h1>
 
 - 🔭 Atualmente trabalho no T.I da Broker Dissulba Nestle.
-- 💻 Estudante (6º semestre) de Sistema de Informação.
+- 💻 Estudante (7º semestre) de Sistema de Informação.
 - 🚀 Futuro especialista em java.
 - 👯 Estou procurando por crescimento profissional.
 - 🤔 Estou procurando por oportunidades na area de TI e Desenvolvimento Back-End.
